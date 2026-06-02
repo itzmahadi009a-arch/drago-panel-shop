@@ -1,0 +1,6 @@
+{
+  "name": "DRAGO PANEL SHOP",
+  "description": "Premium black and red neon gaming e-commerce platform for panels, bypasses, and streamers with local currency and international payment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
